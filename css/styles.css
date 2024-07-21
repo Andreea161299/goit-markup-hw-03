@@ -51,6 +51,7 @@ body {
   padding: 25px 156px;
   display: flex;
   justify-content: space-between;
+  margin-top: 25px;
 }
 
 .header-nav {
