@@ -70,7 +70,6 @@ body {
 .header-list .header-item {
   display: inline;
   margin-left: 40px;
-  padding: 24px 0;
 }
 
 .header-list .header-item:first-child {
@@ -92,7 +91,6 @@ body {
   color: var(--blue-primary);
   text-transform: uppercase;
   margin-right: 76px;
-  padding: 24px 0;
 }
 
 .studio-link {
@@ -106,6 +104,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--primary-color);
   text-decoration: none;
+  padding: 24px 0;
 }
 
 .menu-link:hover,
@@ -366,6 +365,7 @@ body {
   letter-spacing: 0.02em;
   text-align: left;
   color: var(--navy-text);
+  margin-bottom: 8px;
 }
 
 .gallery-description {
